@@ -1,0 +1,7 @@
+{
+  "name": "AI Face & Gender Recognition",
+  "description": "An intelligent application to detect and recognize faces, identify gender, and count people in photos, videos, and real-time camera feeds using Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
